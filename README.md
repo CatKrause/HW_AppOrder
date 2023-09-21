@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/70ebq7a0iggv6vdm?svg=true)](https://ci.appveyor.com/project/CatKrause/hw-apporder)
